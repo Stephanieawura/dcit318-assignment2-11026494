@@ -2,6 +2,7 @@
 
 interface IMovable
 {
+    // An interface can contain method declarations without implementations
     void Move(); // only a declaration
 }
 
