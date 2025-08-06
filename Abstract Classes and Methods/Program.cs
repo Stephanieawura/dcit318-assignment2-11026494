@@ -1,7 +1,9 @@
 ﻿using System;
 
 abstract class Shape
+
 {
+    console.WriteLine("Abstract Classes and Methods Example");  
     public abstract double GetArea(); // no body, must be implemented by child
 }
 
