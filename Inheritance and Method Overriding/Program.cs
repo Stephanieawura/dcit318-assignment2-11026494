@@ -2,7 +2,7 @@
 
 class Animal
 {
-
+    // This method can be overridden in derived classes
     public virtual void MakeSound()
     {
         Console.WriteLine("Some generic sound");
